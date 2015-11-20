@@ -1,0 +1,12 @@
+# Site settings
+title: Welcome
+email: lbraglia@gmail.com
+description: "Welcome"
+baseurl: ""
+url: "https://lbraglia.github.io"
+twitter_username: lucailgarb
+github_username:  lbraglia
+
+# Build settings
+markdown: kramdown
+permalink: pretty
