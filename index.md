@@ -24,5 +24,7 @@ read/write `xlsx` file in R.
 
 ### Web apps
 
-[rioweb](http://lbraglia.shinyapps.io/rioweb): a free, simple file, transfer
-service for common statistical file formats. 
+[rioweb](http://lbraglia.shinyapps.io/rioweb): a free, simple, file
+transfer service for common statistical file formats. Powered by
+[R](http:/www.r-project.org), [rio](http://cran.rstudio.com/web/packages/openxlsx) and [shinyapps](http://www.shinyapps.io).
+ 
