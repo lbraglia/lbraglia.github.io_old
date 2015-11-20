@@ -2,17 +2,23 @@
 layout: default
 ---
 
-## Contacts
+### How to contact me
+
+[e-mail](mailto:lbraglia@gmail.com) / [GitHub](http://github.com/lbraglia)
+/ [Twitter](http://twitter.com/lucailgarb)
 
 
-[Twitter](mailto:lbraglia@gmail.com)
+### software
 
-[GitHub](http://github.com/github)
+[RStata](http://github.com/lbraglia/RStata): A R-Stata interface.
 
-[Twitter](http://twitter.com/lucailgarb)
+[Rdoc](http://github.com/lbraglia/Rdoc): access R documentation easily
+from the command line.
 
+[ifctools](http://cran.rstudio.com/web/packages/ifctools): C powered
+management of italian 'Codice fiscale' in R.
 
-## Software
+### Web apps
 
-
-## Web apps
+[webrio](http://lbraglia.shinyapps.io/webrio): a free, simple file, transfer
+service for common statistical file formats. 
