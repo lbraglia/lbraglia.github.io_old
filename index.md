@@ -18,7 +18,6 @@ from the command line.
 [ifctools](http://cran.rstudio.com/web/packages/ifctools): C powered
 management of italian 'Codice fiscale' in R.
 
-
 [openxlsx](http://cran.rstudio.com/web/packages/openxlsx) (contributor):
 read/write `xlsx` file in R.
 
@@ -26,5 +25,7 @@ read/write `xlsx` file in R.
 
 [rioweb](http://lbraglia.shinyapps.io/rioweb): a free, simple, file
 transfer service for common statistical file formats. Powered by
-[R](http:/www.r-project.org), [rio](http://cran.rstudio.com/web/packages/openxlsx) and [shinyapps](http://www.shinyapps.io).
+[R](http:/www.r-project.org),
+[rio](http://cran.rstudio.com/web/packages/rio) and
+[shinyapps](http://www.shinyapps.io). 
  
