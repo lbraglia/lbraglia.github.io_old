@@ -22,7 +22,7 @@ from the command line.
 
 ### Web apps
 
-[rioweb](http://lbraglia.shinyapps.io/rioweb): a free, simple, file
+[rioweb](https://gallery.shinyapps.io/rioweb): a free, simple, file
 transfer service for common statistical file formats. Powered by
 [rio](http://cran.rstudio.com/web/packages/rio) and
 [shinyapps](http://www.shinyapps.io).
