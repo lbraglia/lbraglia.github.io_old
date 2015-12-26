@@ -20,6 +20,12 @@ read/write `xlsx` file in R.
 [Rdoc](http://github.com/lbraglia/Rdoc): access R documentation easily
 from the command line.
 
+[telegram](http://github.com/lbraglia/telegram): an R wrapper around
+the [Telegram](http://telegram.org/) [Bot
+API](http://core.telegram.org/bots/api). It allows to send messages
+(text, Markdown, images, files) from R to your smartphone.
+
+
 ### Web apps
 
 [rioweb](https://gallery.shinyapps.io/rioweb): a free, simple, file
