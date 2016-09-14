@@ -4,7 +4,7 @@ layout: default
 
 ### How to contact me
 
-[e-mail](mailto:lbraglia@mailbox.org) / [GitHub](http://github.com/lbraglia)
+[e-mail](mailto:lbraglia@gmail.com) / [GitHub](http://github.com/lbraglia)
 / [Twitter](http://twitter.com/lucailgarb)
 
 ### software
